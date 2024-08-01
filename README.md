@@ -8,6 +8,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChenLu)](https://git.io/streak-stats)
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username={lcckkx}&theme=github-compact&hide_border=true&area=true" />
+
 ![Visitor Count](https://profile-counter.glitch.me/lcckkx/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcckkx)](https://github.com/lcckkx/github-readme-stats)
 
