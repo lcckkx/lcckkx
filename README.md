@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welecome+to+my+Github+Profile+page!;Please+feel+free+to+browse+through%EF%BC%8C;leave+comments%2C+fork%2C+or+even+;contribute+to+any+of+the+projects+;that+interest+you.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&width=1500&height=100&lines=Welecome+to+my+Github+Profile+page!;Please+feel+free+to+browse+through%EF%BC%8Cleave+comments%2C+fork%2C+or+even+contribute+to+any+of+the+projects+that+interest+you.)](https://git.io/typing-svg)
 
 
 
