@@ -7,7 +7,7 @@
 
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={lcckkx}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lcckkx)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChenLu)](https://git.io/streak-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/lcckkx/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcckkx)](https://github.com/lcckkx/github-readme-stats)
