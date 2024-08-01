@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&width=1500&height=100&lines=Welecome+to+my+Github+Profile+page!;Please+feel+free+to+browse+through%EF%BC%8Cleave+comments%2C+;fork%2C+or+even+contribute+to+any+of;+the+projects+that+interest+you.)](https://git.io/typing-svg)
 
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username={lcckkx}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChenLu)](https://git.io/streak-stats)
 
