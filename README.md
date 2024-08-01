@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/lcckkx/count.svg)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcckkx)](https://github.com/lcckkx/github-readme-stats)
 
 
 <!--
